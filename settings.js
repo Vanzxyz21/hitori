@@ -4,15 +4,15 @@ const chalk = require('chalk');
 /*
 	* Create By Naze
 	* Follow https://github.com/nazedev
-	* Whatsapp : wa.me/6282113821188
+	* Whatsapp : wa.me/6285606903903
 */
 
 //~~~~~~~~~~~~< GLOBAL SETTINGS >~~~~~~~~~~~~\\
 
-global.owner = ['6282113821188','6281356484612','6285773557984']
+global.owner = ['6285606903903','6285606903903','6285606903903']
 global.packname = 'Bot WhatsApp'
-global.author = 'Nazedev'
-global.botname = 'Naze Bot'
+global.author = 'vanzedev'
+global.botname = 'vanzedev Bot'
 global.listv = ['•','●','■','✿','▲','➩','➢','➣','➤','✦','✧','△','❀','○','□','♤','♡','◇','♧','々','〆']
 global.tempatDB = 'database.json'
 global.pairing_code = true
